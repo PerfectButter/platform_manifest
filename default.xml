@@ -305,6 +305,6 @@
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="platform/system/vold" />
   <oroject path="vendor/perfectbutter" name="platform_vendor_perfectbutter" remote="perfectbutter" revision="jellybean" />
-  <project path="vendor/samsung" name="platform_vendor_samsung" remote="perfectbutter" revision="jellybean" />
+  <project path="vendor/samsung" name="platform_vendor_samsung" remote="perfectbutter" revision="master" />
 
 </manifest>
