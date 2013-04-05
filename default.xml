@@ -186,7 +186,7 @@
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" />
-  <project path="frameworks/base" name="platform_frameworks_base" remote="perfectbutter" revision="jellybean" />
+  <project path="frameworks/base" name="platform_frameworks_base" remote="perfectbutter" revision="master"  />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
@@ -307,7 +307,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="platform/system/vold" />
-  <oroject path="vendor/perfectbutter" name="platform_vendor_perfectbutter" remote="perfectbutter" revision="master"  />
+  <project path="vendor/perfectbutter" name="platform_vendor_perfectbutter" remote="perfectbutter" revision="master"  />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="perfectbutter" revision="master" />
 
 </manifest>
